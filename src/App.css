@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin:  0;
+    padding: 0;
+}
+.App {
+    margin: 15px;
+    padding: 15px;
+}
+.App h1{
+    margin: 8px 0px;
+}
+.todoList {
+    margin-left: 22px;
+}
+.todoList li {
+    margin: 8px 0px;
+}
+.listTitle {
+    margin-bottom: 12px;
+}
